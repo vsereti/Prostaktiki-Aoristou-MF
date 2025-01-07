@@ -1,1 +1,1 @@
-# Prostaktiki-Aoristou-MF
+Πρόκειται για ερωτήσεις πολλαπλής επιλογής σχετικά με την κατανόηση της Προστακτικής Αορίστους Μέσης Φωνής. Έχει δημιουργηθεί στην πλατφόρμα eme: https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1438779# Prostaktiki-Aoristou-MF
